@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Bismillah_Calligraphy5.svg" width="350"/>
+
 # Quran Image Assets
 
 This repository contains image assets for the Quran, organized by different models or styles of the Quran. Each model or style has its own folder at the root level (e.g., md, id, kata, hafalan, etc.).
