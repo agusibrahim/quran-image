@@ -7,7 +7,8 @@ The following Quran models/styles are included in this repository:
 - md: Madinah model 
 - id: Indonesia model 
 - kata: Word-by-word model 
-- hafalan: Easier to memorize model 
+- hafalan: Easier to memorize model
+- tajwid: Tajwid (Quranic recitation rules) model
 
 ## File Structure
 Each folder representing a Quran model/style contains the image assets for the corresponding Quran pages. Additionally, each folder (except for the hafalan folder) includes a map.json file, which contains data about the verse blocks and the dimensions of the images.
