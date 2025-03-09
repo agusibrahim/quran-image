@@ -1,0 +1,132 @@
+{
+  "viewportWidth": "800",
+  "viewportHeight": "1327",
+  "data": [
+    {
+      "surah": "4",
+      "ayah": "176",
+      "block": "1",
+      "left": "23.0",
+      "top": "51.0",
+      "width": "769.0",
+      "height": "63.0"
+    },
+    {
+      "surah": "4",
+      "ayah": "176",
+      "block": "2",
+      "left": "23.0",
+      "top": "150.0",
+      "width": "769.0",
+      "height": "61.0"
+    },
+    {
+      "surah": "4",
+      "ayah": "176",
+      "block": "3",
+      "left": "23.0",
+      "top": "250.0",
+      "width": "769.0",
+      "height": "61.0"
+    },
+    {
+      "surah": "4",
+      "ayah": "176",
+      "block": "4",
+      "left": "23.0",
+      "top": "345.0",
+      "width": "769.0",
+      "height": "65.0"
+    },
+    {
+      "surah": "4",
+      "ayah": "176",
+      "block": "5",
+      "left": "48.0",
+      "top": "445.0",
+      "width": "744.0",
+      "height": "65.0"
+    },
+    {
+      "surah": "5",
+      "ayah": "1",
+      "block": "1",
+      "left": "23.0",
+      "top": "737.0",
+      "width": "769.0",
+      "height": "62.0"
+    },
+    {
+      "surah": "5",
+      "ayah": "1",
+      "block": "2",
+      "left": "23.0",
+      "top": "832.0",
+      "width": "769.0",
+      "height": "62.0"
+    },
+    {
+      "surah": "5",
+      "ayah": "1",
+      "block": "3",
+      "left": "531.0",
+      "top": "932.0",
+      "width": "261.0",
+      "height": "62.0"
+    },
+    {
+      "surah": "5",
+      "ayah": "2",
+      "block": "1",
+      "left": "23.0",
+      "top": "932.0",
+      "width": "511.0",
+      "height": "62.0"
+    },
+    {
+      "surah": "5",
+      "ayah": "2",
+      "block": "2",
+      "left": "23.0",
+      "top": "1030.0",
+      "width": "769.0",
+      "height": "62.0"
+    },
+    {
+      "surah": "5",
+      "ayah": "2",
+      "block": "3",
+      "left": "23.0",
+      "top": "1127.0",
+      "width": "769.0",
+      "height": "62.0"
+    },
+    {
+      "surah": "5",
+      "ayah": "2",
+      "block": "4",
+      "left": "23.0",
+      "top": "1223.0",
+      "width": "769.0",
+      "height": "62.0"
+    },
+    {
+      "surah": "5",
+      "ayah": "2",
+      "block": "5",
+      "left": "23.0",
+      "top": "1325.0",
+      "width": "769.0",
+      "height": "62.0"
+    },
+    {
+      "surah": "5",
+      "ayah": "2",
+      "block": "6",
+      "left": "55.0",
+      "top": "1419.0",
+      "width": "737.0",
+      "height": "62.0"
+    }
+  ]
+}

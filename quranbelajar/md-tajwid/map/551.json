@@ -1,0 +1,159 @@
+{
+  "viewportWidth": 1080,
+  "viewportHeight": 1745,
+  "data": [
+    {
+      "surah": 60,
+      "ayah": 12,
+      "blok": 1,
+      "top": 75,
+      "left": 12,
+      "width": 1014,
+      "height": 120
+    },
+    {
+      "surah": 60,
+      "ayah": 12,
+      "blok": 2,
+      "top": 195,
+      "left": 12,
+      "width": 1014,
+      "height": 103
+    },
+    {
+      "surah": 60,
+      "ayah": 12,
+      "blok": 3,
+      "top": 298,
+      "left": 12,
+      "width": 1014,
+      "height": 109
+    },
+    {
+      "surah": 60,
+      "ayah": 12,
+      "blok": 4,
+      "top": 407,
+      "left": 12,
+      "width": 1014,
+      "height": 100
+    },
+    {
+      "surah": 60,
+      "ayah": 12,
+      "blok": 5,
+      "top": 507,
+      "left": 934,
+      "width": 92,
+      "height": 110
+    },
+    {
+      "surah": 60,
+      "ayah": 13,
+      "blok": 1,
+      "top": 507,
+      "left": 12,
+      "width": 922,
+      "height": 110
+    },
+    {
+      "surah": 60,
+      "ayah": 13,
+      "blok": 2,
+      "top": 617,
+      "left": 12,
+      "width": 1014,
+      "height": 114
+    },
+    {
+      "surah": 61,
+      "ayah": 1,
+      "blok": 1,
+      "top": 928,
+      "left": 12,
+      "width": 1014,
+      "height": 102
+    },
+    {
+      "surah": 61,
+      "ayah": 1,
+      "blok": 2,
+      "top": 1030,
+      "left": 936,
+      "width": 90,
+      "height": 107
+    },
+    {
+      "surah": 61,
+      "ayah": 2,
+      "blok": 1,
+      "top": 1030,
+      "left": 12,
+      "width": 924,
+      "height": 107
+    },
+    {
+      "surah": 61,
+      "ayah": 3,
+      "blok": 1,
+      "top": 1137,
+      "left": 92,
+      "width": 934,
+      "height": 103
+    },
+    {
+      "surah": 61,
+      "ayah": 4,
+      "blok": 1,
+      "top": 1137,
+      "left": 12,
+      "width": 80,
+      "height": 103
+    },
+    {
+      "surah": 61,
+      "ayah": 4,
+      "blok": 2,
+      "top": 1240,
+      "left": 12,
+      "width": 1014,
+      "height": 109
+    },
+    {
+      "surah": 61,
+      "ayah": 4,
+      "blok": 3,
+      "top": 1349,
+      "left": 646,
+      "width": 380,
+      "height": 100
+    },
+    {
+      "surah": 61,
+      "ayah": 5,
+      "blok": 1,
+      "top": 1349,
+      "left": 12,
+      "width": 634,
+      "height": 100
+    },
+    {
+      "surah": 61,
+      "ayah": 5,
+      "blok": 2,
+      "top": 1449,
+      "left": 12,
+      "width": 1014,
+      "height": 102
+    },
+    {
+      "surah": 61,
+      "ayah": 5,
+      "blok": 3,
+      "top": 1551,
+      "left": 12,
+      "width": 1014,
+      "height": 133
+    }
+  ]
+}

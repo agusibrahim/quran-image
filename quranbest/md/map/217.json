@@ -1,0 +1,177 @@
+{
+  "viewportWidth": "800",
+  "viewportHeight": "1327",
+  "data": [
+    {
+      "surah": "10",
+      "ayah": "71",
+      "block": "1",
+      "left": "8.0",
+      "top": "64.0",
+      "width": "693.0",
+      "height": "80.0"
+    },
+    {
+      "surah": "10",
+      "ayah": "71",
+      "block": "2",
+      "left": "8.0",
+      "top": "145.0",
+      "width": "748.0",
+      "height": "80.0"
+    },
+    {
+      "surah": "10",
+      "ayah": "71",
+      "block": "3",
+      "left": "8.0",
+      "top": "225.0",
+      "width": "748.0",
+      "height": "80.0"
+    },
+    {
+      "surah": "10",
+      "ayah": "71",
+      "block": "4",
+      "left": "424.0",
+      "top": "306.0",
+      "width": "331.0",
+      "height": "80.0"
+    },
+    {
+      "surah": "10",
+      "ayah": "72",
+      "block": "1",
+      "left": "8.0",
+      "top": "306.0",
+      "width": "414.0",
+      "height": "80.0"
+    },
+    {
+      "surah": "10",
+      "ayah": "72",
+      "block": "2",
+      "left": "24.0",
+      "top": "387.0",
+      "width": "718.0",
+      "height": "80.0"
+    },
+    {
+      "surah": "10",
+      "ayah": "73",
+      "block": "1",
+      "left": "8.0",
+      "top": "468.0",
+      "width": "748.0",
+      "height": "80.0"
+    },
+    {
+      "surah": "10",
+      "ayah": "73",
+      "block": "2",
+      "left": "8.0",
+      "top": "549.0",
+      "width": "748.0",
+      "height": "80.0"
+    },
+    {
+      "surah": "10",
+      "ayah": "73",
+      "block": "3",
+      "left": "686.0",
+      "top": "630.0",
+      "width": "70.0",
+      "height": "80.0"
+    },
+    {
+      "surah": "10",
+      "ayah": "74",
+      "block": "1",
+      "left": "8.0",
+      "top": "630.0",
+      "width": "676.0",
+      "height": "80.0"
+    },
+    {
+      "surah": "10",
+      "ayah": "74",
+      "block": "2",
+      "left": "8.0",
+      "top": "711.0",
+      "width": "748.0",
+      "height": "80.0"
+    },
+    {
+      "surah": "10",
+      "ayah": "74",
+      "block": "3",
+      "left": "550.0",
+      "top": "792.0",
+      "width": "206.0",
+      "height": "80.0"
+    },
+    {
+      "surah": "10",
+      "ayah": "75",
+      "block": "1",
+      "left": "8.0",
+      "top": "792.0",
+      "width": "540.0",
+      "height": "80.0"
+    },
+    {
+      "surah": "10",
+      "ayah": "75",
+      "block": "2",
+      "left": "24.0",
+      "top": "873.0",
+      "width": "732.0",
+      "height": "80.0"
+    },
+    {
+      "surah": "10",
+      "ayah": "76",
+      "block": "1",
+      "left": "24.0",
+      "top": "954.0",
+      "width": "732.0",
+      "height": "80.0"
+    },
+    {
+      "surah": "10",
+      "ayah": "77",
+      "block": "1",
+      "left": "8.0",
+      "top": "1034.0",
+      "width": "748.0",
+      "height": "80.0"
+    },
+    {
+      "surah": "10",
+      "ayah": "77",
+      "block": "2",
+      "left": "555.0",
+      "top": "1115.0",
+      "width": "200.0",
+      "height": "80.0"
+    },
+    {
+      "surah": "10",
+      "ayah": "78",
+      "block": "1",
+      "left": "8.0",
+      "top": "1115.0",
+      "width": "545.0",
+      "height": "80.0"
+    },
+    {
+      "surah": "10",
+      "ayah": "78",
+      "block": "2",
+      "left": "24.0",
+      "top": "1196.0",
+      "width": "711.0",
+      "height": "87.0"
+    }
+  ]
+}
