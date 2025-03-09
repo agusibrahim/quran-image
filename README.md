@@ -41,7 +41,8 @@ You can access quran content from this repo via free CDN service like jsdelivr o
 * https://cdn.jsdelivr.net/gh/agusibrahim/quran-image@main/kata-tajwid/001.png
 * https://cdn.jsdelivr.net/gh/agusibrahim/quran-image@main/kata-tajwid/map.json
 > or
-* https://cdn.statically.io/gh/agusibrahim/quran-image/main/md-tajwid/001.png
-* https://cdn.statically.io/gh/agusibrahim/quran-image/main/md-tajwid/map.json
+https://cdn.jsdelivr.net/gh/agusibrahim/quran-image@improved/quranbelajar/kata-tajwid/010.png
+https://cdn.jsdelivr.net/gh/agusibrahim/quran-image@improved/quranbelajar/kata-tajwid/map/010.json
+
 
 If you have any questions or issues, feel free to open an issue in the repository.
