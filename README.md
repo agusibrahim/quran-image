@@ -37,12 +37,14 @@ You can use the image assets in this repository for various purposes, such as:
 Please note that the use of these assets may be subject to licensing or attribution requirements. Refer to the repository's license information for more details.
 
 ## How to access the content
-You can access quran content from this repo via free CDN service like jsdelivr or statically.io, eg:
+You can access quran content from this repo via free CDN service like jsdelivr, eg:
 * https://cdn.jsdelivr.net/gh/agusibrahim/quran-image@main/kata-tajwid/001.png
 * https://cdn.jsdelivr.net/gh/agusibrahim/quran-image@main/kata-tajwid/map.json
-> or
-https://cdn.jsdelivr.net/gh/agusibrahim/quran-image@improved/quranbelajar/kata-tajwid/010.png
-https://cdn.jsdelivr.net/gh/agusibrahim/quran-image@improved/quranbelajar/kata-tajwid/map/010.json
+> or using improved version
+* https://cdn.jsdelivr.net/gh/agusibrahim/quran-image@improved/quranbelajar/kata-tajwid/010.png
+* https://cdn.jsdelivr.net/gh/agusibrahim/quran-image@improved/quranbelajar/kata-tajwid/map/010.json
+* https://cdn.jsdelivr.net/gh/agusibrahim/quran-image@improved/quranbest/kata2/010.png
+* https://cdn.jsdelivr.net/gh/agusibrahim/quran-image@improved/quranbest/kata2/map/010.json
 
 
 If you have any questions or issues, feel free to open an issue in the repository.
